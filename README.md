@@ -1,4 +1,6 @@
-# Hindi & English OCR with Keyword Search using Qwen2-VL
+# Hindi English OCR with Keyword Search using Qwen2-VL
+
+![{60950997-B613-4DCA-A2F0-AF993237BDE1}](https://github.com/user-attachments/assets/3c742784-509b-4198-8e91-75d19b519f9f)
 
 This project implements a powerful OCR tool that utilizes the **Qwen2-VL** model for extracting text from images in Hindi and English. Users can upload images, extract the text, and optionally search for specific keywords within the extracted text.
 

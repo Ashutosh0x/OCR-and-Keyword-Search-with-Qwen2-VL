@@ -20,8 +20,10 @@ pip install gradio transformers Pillow torch
 ```
 Usage
 Clone the repository:
+```
 git clone https://github.com/Ashutosh0x/OCR-and-Keyword-Search-with-Qwen2-VL.git
-cd OCR-and-Keyword-Search-with-Qwen2-VL
+cd OCR-and-Keyword-Search-with-Qwen2-VL 
+```
 
 Install the required packages.
 
